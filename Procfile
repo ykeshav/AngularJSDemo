@@ -1,0 +1,1 @@
+web: grunt Gruntfile.js
